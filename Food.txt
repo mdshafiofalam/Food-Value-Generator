@@ -1,0 +1,10 @@
+1.Sushi
+2.Udon
+3.Tofu
+4.Tempura
+5.Yakitori
+6.Sashimi
+7.Ramen
+8.Donburi
+9.Natto
+10.Oden

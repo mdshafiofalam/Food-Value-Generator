@@ -1,0 +1,12 @@
+Foood Items-------------Calories In Each Serving
+
+1.Sushi                          570Cal
+2.Udon                           300Cal
+3.Tofu                           223Cal
+4.Tempura                        800Cal
+5.Yakitori                       620Cal
+6.Sashimi                        268Cal
+7.Ramen                          720Cal
+8.Donburi                        597Cal
+9.Natto                          425Cal
+10.Oden                          357Cal
