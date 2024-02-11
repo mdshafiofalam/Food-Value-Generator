@@ -1,2 +1,2 @@
 # Food-Value-Generator
- Calculates Calories from food type and quantities
+ Calculates calories from food type and quantities
